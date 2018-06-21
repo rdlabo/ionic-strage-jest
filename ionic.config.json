@@ -1,6 +1,5 @@
 {
   "name": "ionic2-jest-example",
-  "app_id": "",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
